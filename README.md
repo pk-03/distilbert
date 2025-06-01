@@ -1,5 +1,5 @@
 
-# Hindi Sentiment Classification using DeBERTa
+# Hindi Sentiment Classification using DistilBERT
 
 This project fine-tunes the `DistilBERT` transformer model for sentiment classification on Hindi text. The goal is to classify Hindi reviews into one of three sentiment classes: **positive**, **negative**, or **neutral**.
 
@@ -158,11 +158,11 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ## 🙏 Acknowledgements
 
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
-- [Microsoft DeBERTa](https://github.com/microsoft/DeBERTa)
+- [distilBERT](https://github.com/huggingface/transformers/tree/main/src/transformers/models/distilbert)
 - [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library)
 
 ---
 
 ## ✨ Contact
 
-For queries, reach out to [pranitarora074@gmail.com] or create an issue.
+For queries, reach out to [me](pranitarora074@gmail.com) or create an issue.
